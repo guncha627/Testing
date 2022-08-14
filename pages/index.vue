@@ -63,6 +63,7 @@
 </template>
 
 <script>
+// New comment
 import Cards from './../components/cards.vue'
 export default {
   name: 'IndexPage',
