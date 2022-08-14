@@ -1,0 +1,8 @@
+$main_blue: #2885C6;
+$purple: #DB5B9F;
+
+@mixin  flexBox ($x, $y){
+    display: flex;
+    justify-content: $x;
+    align-items: $y;
+}

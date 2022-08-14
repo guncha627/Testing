@@ -1,0 +1,20 @@
+.outer-container {
+  height: 300px;
+  .content {
+    width: 300px;
+    height: 350px;
+    background-color: rgba(242, 242, 242, 0.702);
+    margin: 0 20px;
+    box-shadow: 0 0 5px black;
+    border-radius: 10px;
+    padding-top: 5px;
+    h3 {
+      text-align: center;
+      margin: 30px 10px;
+    }
+    p {
+      text-align: justify;
+      margin: 30px;
+    }
+  }
+}
